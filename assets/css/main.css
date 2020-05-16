@@ -2619,7 +2619,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		.button.primary {
 			background-color: #002e63;
-			color: #ffffff !important;
+			color: #b7eadc !important;
 		}
 
 			input[type="submit"].primary:hover,
