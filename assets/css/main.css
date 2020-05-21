@@ -2619,7 +2619,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		.button.primary {
 			background-color: #002e63;
-			color: #b7eadc !important;
+			color: #ffffff !important;
 		}
 
 			input[type="submit"].primary:hover,
@@ -2720,11 +2720,11 @@ input, select, textarea {
 			}
 
 		#header header p {
-			color: #b7eadc;
+			color: #ffffff;
 		}
 
 		#header a {
-			color: #b7eadc;
+			color: #ffffff;
 		}
 
 			#header a:hover {
@@ -2751,8 +2751,8 @@ input, select, textarea {
 			}
 
 			#header > header p {
-				color: #b7eadc;
-				font-style: italic;
+				color: #ffffff;
+				font-style: normal;
 				margin: 1em 0 0 0;
 			}
 
@@ -2772,7 +2772,7 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #b7eadc;
+					color: #ffffff;
 				}
 
 		#header > nav {
@@ -2800,14 +2800,14 @@ input, select, textarea {
 						-ms-transition: none;
 						transition: none;
 						border: 0;
-						color: #b7eadc !important;
+						color: ##ffffff !important;
 						display: block;
 						padding: 0.85em 0;
 						text-decoration: none;
 					}
 
 						#header > nav ul li a.active {
-							background: #b7eadc;
+							background: #ffffff;
 							color: #002e63 !important;
 						}
 
